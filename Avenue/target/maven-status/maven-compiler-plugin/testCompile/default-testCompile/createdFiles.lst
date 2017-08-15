@@ -1,0 +1,7 @@
+stepdefinition\GmailLoginTest_StepDef.class
+com\testerstories\pages\BasePage.class
+com\testerstories\pages\HomePage.class
+stepdefinition\GmailTestRunner.class
+com\testerstories\pages\LoginPage.class
+stepdefinition\LoginSteps.class
+com\testerstories\TestRunner.class
